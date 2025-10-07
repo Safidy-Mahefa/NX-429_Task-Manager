@@ -186,7 +186,7 @@ class TaskManager{
                   </span>
                 </span>
               
-                <span>
+                <span class="d-flex justify-content-between align-items-center">
                   <button 
                     class="btn btn-outline-success btn-sm me-1" 
                     onclick="markDone(${index})"
