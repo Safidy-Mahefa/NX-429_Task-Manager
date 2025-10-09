@@ -28,7 +28,7 @@ This project demonstrates **object-oriented programming in JavaScript**, robust 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/NX-429-Task-Manager.git
+git clone https://github.com/Safidy-Mahefa/NX-429_Task-Manager.git
 ```
 
 2. Open `index.html` in your browser.
@@ -87,7 +87,7 @@ This is a personal learning project, but feel free to fork and improve:
 
 ## License
 
-MIT License © 2025 – [Your Name]
+MIT License © 2025 – Safidy Mahefa
 
 ---
 
